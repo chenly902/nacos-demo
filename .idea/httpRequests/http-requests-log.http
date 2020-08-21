@@ -1,0 +1,32 @@
+GET http://localhost:8090/consumer/hi
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-08-21T030227.200.txt
+
+###
+
+GET http://localhost:8090/hi
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-08-21T030211.404.json
+
+###
+
+GET http://localhost:7001/hi
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-08-21T030025.200.txt
+
+###
+
+GET http://localhost:7002/hello
+Accept: */*
+Cache-Control: no-cache
+
+<> 2020-08-21T030014.200.txt
+
+###
+

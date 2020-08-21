@@ -2,8 +2,11 @@
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/gateway-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/nacos-privider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-privider/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
